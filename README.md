@@ -24,3 +24,7 @@ A simple Python program that prints the numbers from 1 to 100. But for multiples
 
 - To check for linting errors you can run the command `flake8 .`
 - To auto lint the file after writing your code you can run the command `black main.py`
+
+### Testing the code
+
+- To run tests with coverage displayed enter the command `pytest --cov=fizzbuzz/`
